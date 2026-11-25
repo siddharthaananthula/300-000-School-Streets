@@ -1,5 +1,7 @@
 # 300,000 Streets of Melbourne — School Streets Safety Analysis
 
+> **Team project:** RMIT Master of Data Science capstone (2026) with Regen Melbourne. Original repository: https://github.com/s4111078-sidd/300-000-School-Streets. I built the data pipeline and dashboard and carried out the feature engineering and model selection; some final scripts were committed by teammates.
+
 A pedestrian and cyclist safety assessment tool for walking routes around secondary schools in Melbourne, grounded in the **Healthy Streets framework** (Lucy Saunders / Transport for London). Built in collaboration between **Regen Melbourne** and **RMIT University**.
 
 ---
